@@ -1,11 +1,9 @@
 # Query-decision Regression with Task Shift
 
-Code for USCO-Solver.
-
 **Query-decision Regression between Shortest Path and Minimum Steiner Tree, PAKDD 2024**
 
-Considering a graph with unknown weights, can we find the shortest path for a pair of nodes if we know the minimal Steiner trees
-associated with some subset of nodes?
+Considering a graph with unknown weights, can we find the shortest path for a pair of nodes (a-d) if we know the minimal Steiner trees
+associated with some subset of nodes (e-h)?
 
 ![alt text](https://github.com/cdslabamotong/QRTS/blob/main/abstract.jpg)
 
