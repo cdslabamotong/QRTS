@@ -1,4 +1,4 @@
-# QRTS
+# Query-decision Regression with Task Shift
 
 Code for USCO-Solver.
 
@@ -6,6 +6,8 @@ Code for USCO-Solver.
 
 Considering a graph with unknown weights, can we find the shortest path for a pair of nodes if we know the minimal Steiner trees
 associated with some subset of nodes?
+
+![alt text](https://github.com/cdslabamotong/QRTS/blob/main/abstract.jpg)
 
 Paper: arxiv
 
